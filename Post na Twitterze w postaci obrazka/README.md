@@ -3,3 +3,6 @@
 3. wybór obrazka
 4. dodanie do obrazka danych pomiarowych
 5. zapisanie jako nowy obrazek gotowy do uploadu
+
+
+![alt text](http://url/to/img.png)
