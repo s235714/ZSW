@@ -5,4 +5,4 @@
 5. zapisanie jako nowy obrazek gotowy do uploadu
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/MichalTom4szewicz/Zastosowania-Systemow-Wbudowanych/master/Post%20na%20Twitterze%20w%20postaci%20obrazka/nowe.jpg)
