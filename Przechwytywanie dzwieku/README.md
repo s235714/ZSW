@@ -1,2 +1,3 @@
-Przechwytywanie dzwieku \n
+Przechwytywanie dzwieku
+
 Dane w formie pliku txt
